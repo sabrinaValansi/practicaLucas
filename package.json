@@ -1,0 +1,22 @@
+{
+  "type":"module",
+  "name": "practicalucas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrinaValansi/practicaLucas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrinaValansi/practicaLucas/issues"
+  },
+  "homepage": "https://github.com/sabrinaValansi/practicaLucas#readme"
+}
