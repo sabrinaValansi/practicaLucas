@@ -1,7 +1,8 @@
 console.log("Hola");
 console.log("Chau");
 
-import {factura} from "./src/facturas.js";
+//import {factura} from "./src/facturas.js";
+//import fs from './textos/texto.txt';
 
 //console.log(factura);
 
@@ -22,3 +23,5 @@ console.log("----nuevo objeto----");
 const nuevaFactura = factura.map(dato => {return{num:dato.numero,imp:dato.importe*2}});
 console.log(nuevaFactura);
 
+/* const data = fs.readFileSync( './textos/text.txt' , 'utf-8' )
+console .log(data) */
